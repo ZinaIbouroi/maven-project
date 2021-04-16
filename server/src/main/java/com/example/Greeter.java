@@ -1,9 +1,16 @@
+/**
+* Package
+*/
 package com.example;
 
-
+/**
+* Creation de la classe greeter
+*/
 public class Greeter {
 
-  
+  /**
+  * Constructeur de la classe greeter
+  */
   public Greeter() {
 
   }
